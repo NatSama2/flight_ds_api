@@ -1,5 +1,8 @@
 # 🧠 Microservicio Data Science — FlightOnTime
 
+> ⚠️ Esta es la **API oficial y activa** del proyecto FlightOnTime.  
+> Todas las predicciones deben consumirse desde este servicio.
+
 Este microservicio permite exponer el modelo de Machine Learning entrenado por el equipo de Data Science como una API REST, para que el backend pueda consumirlo sin necesidad de interactuar directamente con el archivo `.joblib`.
 
 ---
@@ -9,6 +12,7 @@ Este microservicio permite exponer el modelo de Machine Learning entrenado por e
 - Modelo serializado: `flight_model_v1.0.0.joblib`
 - API en Python (FastAPI)
 - Endpoint `/predict`
+- Endpoint `/health`
 - Validación básica de datos
 - Manejo de errores
 - Contrato claro de entrada y salida
@@ -24,6 +28,15 @@ flight_ds_api/
 ├── models/
 │   └── flight_model_v1.0.0.joblib
 └── requirements.txt
+```
+
+---
+
+## 📥 Clonar y ejecutar
+
+```bash
+git clone https://github.com/NatSama2/flight_ds_api
+cd flight_ds_api
 ```
 
 ---
@@ -162,4 +175,3 @@ Este microservicio garantiza que:
 Este microservicio corresponde a una versión MVP. La conexión con el backend está implementada, pero aún puede presentar inestabilidades. La integración definitiva debe realizarse consumiendo este servicio como fuente única de predicción.
 
 ---
-
