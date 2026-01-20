@@ -168,6 +168,12 @@ Este microservicio garantiza que:
 - Karen Sofia Rodriguez
 - Karen Guerrero González
 
+## 👨‍💻 Equipo Backend Developer
+
+- Lester Hartman Myers González
+- Jorge Satomi Minami Aguilera
+- Rosa Estrella Calderon Rodriguez
+
 ---
 
 ## 📌 Estado del proyecto
