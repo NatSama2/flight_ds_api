@@ -33,3 +33,6 @@ Thumbs.db
 
 # Node (por si acaso)
 node_modules/
+
+# Modelo
+models/flight_model_v1.0.5.joblib

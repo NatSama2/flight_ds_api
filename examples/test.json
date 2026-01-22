@@ -1,0 +1,147 @@
+{
+  "retrasados": [
+    {
+      "aerolinea": "dl",
+      "origen": "lga",
+      "destino": "tpa",
+      "fecha_partida": "2025-01-17T00:00:00",
+      "distancia_km": 1010
+    },
+    {
+      "aerolinea": "wn",
+      "origen": "den",
+      "destino": "rno",
+      "fecha_partida": "2025-01-19T00:00:00",
+      "distancia_km": 804
+    },
+    {
+      "aerolinea": "wn",
+      "origen": "sfo",
+      "destino": "den",
+      "fecha_partida": "2025-01-19T00:00:00",
+      "distancia_km": 967
+    },
+    {
+      "aerolinea": "wn",
+      "origen": "bwi",
+      "destino": "atl",
+      "fecha_partida": "2025-01-15T00:00:00",
+      "distancia_km": 577
+    },
+    {
+      "aerolinea": "wn",
+      "origen": "rsw",
+      "destino": "stl",
+      "fecha_partida": "2025-01-19T00:00:00",
+      "distancia_km": 979
+    },
+    {
+      "aerolinea": "aa",
+      "origen": "ord",
+      "destino": "iah",
+      "fecha_partida": "2025-01-15T00:00:00",
+      "distancia_km": 925,
+      "expected": "Retrasado"
+    },
+    {
+      "aerolinea": "nk",
+      "origen": "ord",
+      "destino": "las",
+      "fecha_partida": "2025-01-19T00:00:00",
+      "distancia_km": 1514
+    },
+    {
+      "aerolinea": "aa",
+      "origen": "dfw",
+      "destino": "san",
+      "fecha_partida": "2025-01-13T00:00:00",
+      "distancia_km": 1171
+    },
+    {
+      "aerolinea": "wn",
+      "origen": "atl",
+      "destino": "rdu",
+      "fecha_partida": "2025-01-14T00:00:00",
+      "distancia_km": 356
+    },
+    {
+      "aerolinea": "dl",
+      "origen": "dtw",
+      "destino": "lan",
+      "fecha_partida": "2025-01-19T00:00:00",
+      "distancia_km": 74
+    }
+  ],
+  "puntuales": [
+    {
+      "aerolinea": "aa",
+      "origen": "mke",
+      "destino": "dca",
+      "fecha_partida": "2025-01-17T00:00:00",
+      "distancia_km": 634
+    },
+    {
+      "aerolinea": "aa",
+      "origen": "dca",
+      "destino": "atl",
+      "fecha_partida": "2025-01-13T00:00:00",
+      "distancia_km": 547
+    },
+    {
+      "aerolinea": "ua",
+      "origen": "rno",
+      "destino": "lax",
+      "fecha_partida": "2025-01-17T00:00:00",
+      "distancia_km": 391
+    },
+    {
+      "aerolinea": "g4",
+      "origen": "las",
+      "destino": "avl",
+      "fecha_partida": "2025-01-13T00:00:00",
+      "distancia_km": 1824
+    },
+    {
+      "aerolinea": "as",
+      "origen": "sjc",
+      "destino": "ogg",
+      "fecha_partida": "2025-01-15T00:00:00",
+      "distancia_km": 2355
+    },
+    {
+      "aerolinea": "wn",
+      "origen": "pns",
+      "destino": "bna",
+      "fecha_partida": "2025-01-17T00:00:00",
+      "distancia_km": 391
+    },
+    {
+      "aerolinea": "dl",
+      "origen": "roa",
+      "destino": "atl",
+      "fecha_partida": "2025-01-13T00:00:00",
+      "distancia_km": 357
+    },
+    {
+      "aerolinea": "nk",
+      "origen": "san",
+      "destino": "las",
+      "fecha_partida": "2025-01-18T00:00:00",
+      "distancia_km": 258
+    },
+    {
+      "aerolinea": "wn",
+      "origen": "rno",
+      "destino": "lax",
+      "fecha_partida": "2025-01-18T00:00:00",
+      "distancia_km": 391
+    },
+    {
+      "aerolinea": "dl",
+      "origen": "pih",
+      "destino": "slc",
+      "fecha_partida": "2025-01-19T00:00:00",
+      "distancia_km": 150
+    }
+  ]
+}
