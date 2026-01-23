@@ -9,7 +9,7 @@ Este microservicio permite exponer el modelo de Machine Learning entrenado por e
 
 ## 📦 ¿Qué contiene este servicio?
 
-- Modelo serializado: `flight_model_v1.0.0.joblib`
+- Modelo serializado: `flight_model_v1.0.5.joblib`
 - API en Python (FastAPI)
 - Endpoint `/predict`
 - Endpoint `/health`
@@ -38,6 +38,36 @@ flight_ds_api/
 git clone https://github.com/NatSama2/flight_ds_api
 cd flight_ds_api
 ```
+
+---
+
+## ⬇️ Descargar el modelo (PASO OBLIGATORIO)
+
+Debido al tamaño del archivo, el modelo no está incluido en el repositorio.  
+Debes descargarlo manualmente desde el siguiente enlace:
+
+🔗 **Descargar modelo:**  
+https://drive.google.com/file/d/1MwLAo6WjdL6uHhcRdHwvo2ju-EXOFsTX/view?usp=drive_link
+
+Una vez descargado:
+
+Asegúrate de que el archivo se llame:
+
+```bash
+
+flight_model_v1.0.5.joblib
+
+```
+
+Colócalo dentro de la carpeta:
+
+```bash
+
+flight_ds_api/models/
+
+```
+
+El proyecto no funcionará sin este archivo.
 
 ---
 
@@ -170,6 +200,7 @@ Este microservicio garantiza que:
 
 ## 👨‍💻 Equipo Backend Developer
 
+- Daniel Jiménez
 - Lester Hartman Myers González
 - Jorge Satomi Minami Aguilera
 - Rosa Estrella Calderon Rodriguez
