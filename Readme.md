@@ -105,6 +105,17 @@ http://localhost:8000
 
 ---
 
+## 🌍 API desplegada en la nube
+
+Este microservicio también se encuentra desplegado y disponible públicamente.
+
+🔗 **Documentación interactiva de la API (Producción):**  
+https://stonedjjh-flight-prediction-api.hf.space/docs
+
+Desde esa página se pueden probar los endpoints directamente desde el navegador.
+
+---
+
 ## 📡 Endpoints
 
 ### 🔹 Health check
@@ -194,13 +205,13 @@ Este microservicio garantiza que:
 
 ## 👩‍💻 Equipo Data Science
 
-- Giselle Cifuentes
+- Giselle Cifuentes ([GitHub](https://github.com/NatSama2))
 - Karen Sofia Rodriguez
-- Karen Guerrero González
+- Karen Guerrero González ([GitHub](https://github.com/karncita))
 
 ## 👨‍💻 Equipo Backend Developer
 
-- Daniel Jiménez
+- Daniel Jiménez ([GitHub](https://github.com/stonedjjh))
 - Lester Hartman Myers González
 - Jorge Satomi Minami Aguilera
 - Rosa Estrella Calderon Rodriguez
